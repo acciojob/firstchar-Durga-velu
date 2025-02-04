@@ -1,6 +1,7 @@
 function firstChar(text) {
   // your code here
   if(text==""){
+	  
 	  return ""
   }
 	text=text.trim()
